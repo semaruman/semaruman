@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="center">Hi there, I'm Semen 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of the Software Development course</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semaruman)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **semaruman/semaruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
