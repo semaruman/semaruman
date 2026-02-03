@@ -1,9 +1,42 @@
 <h1 align="center">Hi there, I'm Semen 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the Software Development course</h3>
-🏢I know: C# basics, C# collections, OOP C#, Linq C#, Python basics, Python OOP, C++ basics, OOP C++, HTML and CSS🏢
+<h3 align="center">🏢I know:🏢</h3>
+<h4><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/bdbf7ba7-9b65-4f82-acfd-c17c92774e9f" />
+</h4>
+<ul>
+  <li>basics, data structures, OOP</li>
+  <li>Linq</li>
+  <li>Entity Framework Core</li>
+  <li>Windows Forms</li>
+</ul>
+<h4><img width="32" height="36" alt="image" src="https://github.com/user-attachments/assets/f8fac77a-915a-47e7-aea7-7de3ec4e38d8" />
+</h4>
+<ul>
+  <li>basics, OOP</li>
+  <li>STL library</li>
+  <li>algorithm library</li>
+  <li>ranges library</li>
+</ul>
 
-⌨️I am studying: backend development in C# ⌨️
+<h3 align="center">I also know:</h3>
+ <h5><img width="37" height="36" alt="image" src="https://github.com/user-attachments/assets/ef11f89a-3d1e-46b6-85ba-5e53c0a28525" />
+   <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/85ca9512-d9a9-4aa9-8d23-59ce13e84d55" />
+   <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/c6e52851-c678-4cd8-b30e-cc0148151565" /> 
+<img width="25" height="36" alt="image" src="https://github.com/user-attachments/assets/dd98dec9-2472-4a49-9105-4d0b2dfec1c7" />
+   <img width="25" height="36" alt="image" src="https://github.com/user-attachments/assets/2f6689bc-9b63-42e6-8155-51ec02c1d467" />
+   <img width="72" height="36" alt="image" src="https://github.com/user-attachments/assets/3f3e6a6e-a063-4550-aaea-2cc010e95cdf" />
+   <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/1158f80f-670c-438e-aa97-ba6fff2a2f29" />
+   <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/02d53849-ec9e-4085-9650-c5be86797a95" />
+
+
+ 
+<H4>⌨️I am studying: ASP.NET core ⌨️</H4>
+
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=semaruman" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semaruman&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **semaruman/semaruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
