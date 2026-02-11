@@ -30,7 +30,7 @@
    <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/02d53849-ec9e-4085-9650-c5be86797a95" />
 
 <h2 align="center">I also can:</h2>
-<h4>write technical specification, do textual analysis, build use-case diagrams</h4>
+<h4>Write technical specification, do textual analysis, build use-case diagrams</h4>
  
 <H4>⌨️I am studying: ASP.NET core ⌨️</H4>
 
