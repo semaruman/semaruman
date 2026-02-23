@@ -7,7 +7,6 @@
 <ul>
   <li>basics, data structures, OOP</li>
   <li>Linq</li>
-  <li>Entity Framework Core</li>
   <li>Windows Forms</li>
 </ul>
 <h4><img width="32" height="36" alt="image" src="https://github.com/user-attachments/assets/f8fac77a-915a-47e7-aea7-7de3ec4e38d8" />
@@ -30,7 +29,7 @@
    <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/02d53849-ec9e-4085-9650-c5be86797a95" />
 
 <h2 align="center">I also can:</h2>
-<h4>Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams</h4>
+<h4>Work with Json files, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams</h4>
  
 <H4>⌨️I am studying: ASP.NET core ⌨️</H4>
 
