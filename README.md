@@ -28,6 +28,8 @@
    <img width="72" height="36" alt="image" src="https://github.com/user-attachments/assets/3f3e6a6e-a063-4550-aaea-2cc010e95cdf" />
    <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/1158f80f-670c-438e-aa97-ba6fff2a2f29" />
    <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/02d53849-ec9e-4085-9650-c5be86797a95" />
+   <img width="30" height="36" alt="image" src="https://github.com/user-attachments/assets/a623dde0-2b66-4527-a9a9-ac769ce6ea00" />
+
    <p></p>
   <p>Design patterns: Abstract Factory</p>
 
