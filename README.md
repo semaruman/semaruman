@@ -8,6 +8,7 @@
   <li>basics, data structures, OOP</li>
   <li>Linq</li>
   <li>Windows Forms</li>
+  <li>ADO.NET</li>
   <li>ASP.NET core MVC basics</li>
 </ul>
 <h4><img width="32" height="36" alt="image" src="https://github.com/user-attachments/assets/f8fac77a-915a-47e7-aea7-7de3ec4e38d8" />
@@ -37,7 +38,7 @@
 <h2 align="center">I also can:</h2>
 <h4>Work with Json files, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams, state diagrams</h4>
  
-<H4>⌨️I am studying: ASP.NET core, ADO.NET, EF core⌨️</H4>
+<H4>⌨️I am studying: ASP.NET core, EF core⌨️</H4>
 
 <!--
 **semaruman/semaruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
