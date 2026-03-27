@@ -39,7 +39,7 @@
 <h2 align="center">I also can:</h2>
 <h4>Work with Json files, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams, state diagrams</h4>
  
-<H4>⌨️I am studying: ASP.NET core, EF core⌨️</H4>
+<H4>⌨️I am studying: ASP.NET core⌨️</H4>
 
 <!--
 **semaruman/semaruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
