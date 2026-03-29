@@ -11,6 +11,7 @@
   <li>ADO.NET</li>
   <li>Entity Framework</li>
   <li>ASP.NET core MVC</li>
+  <li>ASP.NET core basics (middleware, minimal api, etc.)</li>
 </ul>
 <h4><img width="32" height="36" alt="image" src="https://github.com/user-attachments/assets/f8fac77a-915a-47e7-aea7-7de3ec4e38d8" />
 </h4>
@@ -38,7 +39,7 @@
   <p>I understand how all data structures work under the hood: linked lists, dictionaries, hashsets, etc.</p>
 
 <h2 align="center">I also can:</h2>
-<h4>Work with Json files, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams, state diagrams</h4>
+<h4>Work with Json files, swagger, postman, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams, state diagrams</h4>
  
 <H4>⌨️I am studying: ASP.NET core⌨️</H4>
 
