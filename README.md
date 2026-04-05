@@ -5,13 +5,13 @@
 <h4><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/bdbf7ba7-9b65-4f82-acfd-c17c92774e9f" />
 </h4>
 <ul>
-  <li>basics, data structures, OOP</li>
+  <li>basics, data structures, OOP, async-await</li>
   <li>Linq</li>
   <li>Windows Forms</li>
   <li>ADO.NET</li>
   <li>Entity Framework</li>
   <li>ASP.NET core MVC</li>
-  <li>ASP.NET core basics (middleware, minimal api, etc.)</li>
+  <li>ASP.NET core (middleware, authorization, minimal api, etc.)</li>
 </ul>
 <h4><img width="32" height="36" alt="image" src="https://github.com/user-attachments/assets/f8fac77a-915a-47e7-aea7-7de3ec4e38d8" />
 </h4>
