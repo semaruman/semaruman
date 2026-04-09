@@ -12,6 +12,7 @@
   <li>Entity Framework</li>
   <li>ASP.NET core MVC</li>
   <li>ASP.NET core (middleware, authorization, minimal api, etc.)</li>
+  <li>ASP.NET core WEB API (controller-based)</li>
   <li>Logging, xUnit</li>
 </ul>
 <h4><img width="32" height="36" alt="image" src="https://github.com/user-attachments/assets/f8fac77a-915a-47e7-aea7-7de3ec4e38d8" />
