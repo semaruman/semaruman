@@ -41,7 +41,7 @@
   <p>I understand how all data structures work under the hood: linked lists, dictionaries, hashsets, etc.</p>
 
 <h2 align="center">I also can:</h2>
-<h4>Work with Json, Excel files, swagger, postman, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams, state diagrams</h4>
+<h4>Work with Json, XML documents(with C#), parsing Excel files(with C#), swagger, postman, Write technical specification, do textual analysis, build use-case diagrams, build and read UML class diagrams, object diagrams, state diagrams</h4>
 
 <!--
 **semaruman/semaruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
