@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Semen 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of the Software Development course</h3>
 <h3 align="center">🏢I know:🏢</h3>
 <h4><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/bdbf7ba7-9b65-4f82-acfd-c17c92774e9f" />
 </h4>
