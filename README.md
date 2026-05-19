@@ -35,7 +35,7 @@
    <img width="30" height="36" alt="image" src="https://github.com/user-attachments/assets/a623dde0-2b66-4527-a9a9-ac769ce6ea00" />
 
    <p></p>
-  <p>Design patterns: Abstract Factory, Builder, Factory method, Prototype, Singleton, Adapter, Bridge, Composite, Decorator, Фасад, Observer, Mediator</p>
+  <p>Design patterns: Factory method, Singleton, Decorator, Observer, Mediator</p>
   <p>Algorithms: LCS, Quick sort, bubble sort, counting sort, selection sort, insertion sort, binary search</p>
   <p>I understand how all data structures work under the hood: linked lists, dictionaries, hashsets, etc.</p>
 
