@@ -35,7 +35,7 @@ HTML Agility Pack, JSON, XML, UML, Excel, swagger, postman, build and read UML c
 
 GoF patterns: Decorator, Observer, Mediator
 
-### 💖And more
+### 💖 And more
 
 
 > OOP, STL, algorithm, ranges on C++
