@@ -34,6 +34,7 @@ ASP.NET core MVC, WEB API, Middleware, Authorization, Minimal API, Logging, Git
 HTML Agility Pack, JSON, XML, UML, Excel, swagger, postman, build and read UML class diagrams, Unit testing (xUnit)
 
 GoF patterns: Decorator, Observer, Mediator
+
 Architecture: Repository, Unit Of Work, Result
 ### 💖 And more
 
