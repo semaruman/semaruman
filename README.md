@@ -34,7 +34,7 @@ ASP.NET core MVC, WEB API, Middleware, Authorization, Minimal API, Logging, Git
 HTML Agility Pack, JSON, XML, UML, Excel, swagger, postman, build and read UML class diagrams, Unit testing (xUnit)
 
 GoF patterns: Decorator, Observer, Mediator
-
+Architecture: Repository, Unit Of Work, Result
 ### 💖 And more
 
 
@@ -55,7 +55,7 @@ GoF patterns: Decorator, Observer, Mediator
 ## 🎯 What I'm Working On
 
 - 🔭 I’m currently working on my startup
-- 🌱 I’m currently learning Repository, Unit Of Work, DDD, Algorithms and Avalonia
+- 🌱 I’m currently learning DDD, Algorithms and Avalonia
 - 👯 I’m looking to collaborate with a modern IT company
 - 💬 Ask me about my way
 - 📫 How to reach me: email: semaruman@yandex.ru, [telegram](https://t.me/SemenRuman)
