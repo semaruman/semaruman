@@ -1,7 +1,7 @@
 # <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm Semen 
 
 ### 🚀 About Me
-I am Semen Rumyantsev, a junior+ .net backend developer. I am rapidly learning and approaching middle
+I am Semen Rumyantsev, .net backend developer. I am rapidly learning and approaching middle
 
 
 
@@ -28,7 +28,7 @@ I am Semen Rumyantsev, a junior+ .net backend developer. I am rapidly learning a
 </div>
 
 ### ⌨️ I often work with
-ASP.NET core MVC, WEB API, Middleware, Authorization, Minimal API, Logging, Git
+ASP.NET core MVC, WEB API, Middleware, Authorization, Minimal API, Logging, Git, Clean Architecture
 
 ### 📚 Also experienced with:
 HTML Agility Pack, JSON, XML, UML, Excel, swagger, postman, build and read UML class diagrams, Unit testing (xUnit)
