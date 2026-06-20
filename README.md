@@ -28,7 +28,7 @@ I am Semen Rumyantsev, .net backend developer. I am rapidly learning and approac
 </div>
 
 ### ⌨️ I often work with
-ASP.NET core MVC, WEB API, Middleware, Authorization, Minimal API, Logging, Git, Clean Architecture
+ASP.NET core MVC, WEB API, Middleware, Authorization, Minimal API, Logging, Git, Clean Architecture, CQRS + MediatR
 
 ### 📚 Also experienced with:
 HTML Agility Pack, JSON, XML, UML, Excel, swagger, postman, build and read UML class diagrams, Unit testing (xUnit)
