@@ -59,7 +59,7 @@ Architecture: Repository, Unit Of Work, Result
 - 🌱 I’m currently learning DDD, Unit tests, Algorithms and Avalonia
 - 👯 I’m looking to collaborate with a modern IT company
 - 💬 Ask me about my way
-- 📫 How to reach me: email: semaruman@yandex.ru, [telegram](https://t.me/SemenRuman)
+- 📫 How to reach me: email: semaruman@yandex.ru, [telegram](https://t.me/SemenRumyantsev)
 - ⚡ Fun fact: I'm in good physical shape
 
 
