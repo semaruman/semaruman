@@ -35,24 +35,17 @@ Building backend systems with a focus on **clean architecture, domain modeling, 
 ![Unit Testing](https://img.shields.io/badge/Unit_Tests-228B22?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration_Tests-32CD32?style=for-the-badge)
 
-### CI / CD
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Containerization & Orchestration
+### Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&&logoColor=white)
 
 ---
 
@@ -66,8 +59,7 @@ Building backend systems with a focus on **clean architecture, domain modeling, 
 
 **Testing** · Unit Tests · Integration Tests · xUnit
 
-**CI/CD** · GitHub Actions · GitLab CI · Azure DevOps · Jenkins  
-**Containerization** · Docker · Docker Compose · Kubernetes · Helm
+**Deployment** · Docker · Docker Compose · GitHub Actions
 
 ---
 
