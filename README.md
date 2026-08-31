@@ -72,4 +72,4 @@ Building my own startup and focusing on **backend architecture, DDD and software
 ## 📫 Contact
 
 📧 [semaruman@yandex.ru](mailto:semaruman@yandex.ru)  
-💬 [Telegram](https://t.me/SemenRumyantsev)
+💬 [Telegram](https://t.me/SemenRuman)
